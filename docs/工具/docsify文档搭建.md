@@ -178,7 +178,7 @@ index.html配置如下：
 
 github创建一个项目仓库，将docs目录下文件上传。然后github仓库设置里配置github page，将page的根目录配置成docs目录即可完成部署。
 
-![github page啥配置](../image/docsify文档搭建/github page啥配置.png)
+![githubpage配置](../image/docsify文档搭建/githubpage配置.png)
 
 本文预览：http://cjiayang.github.io/doc-template
 
